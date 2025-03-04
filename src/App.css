@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.infoRow{
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.card{
+  font-size: 18px;
+  background-color: rgba(8, 7, 7, 0.183);
+  padding: 16px;
+  border-radius: 10px;
+}
+.card p{
+  margin-block: 6px;
+  border-bottom: 1px solid white;
+}

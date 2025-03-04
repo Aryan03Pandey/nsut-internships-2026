@@ -1,0 +1,1377 @@
+[
+    {
+        "companyName": "JPMorgan Chase & Co.",
+        "jobDesignation": "Software Engineer Intern",
+        "jobDescription": "JPMorgan Chase is a global leader in financial services, offering solutions to the world's most important corporations, governments, and institutions in more than 100 countries. Interns will work with experts in a supportive and collaborative environment to gain skills and contribute to a firm with a legacy lasting over 200 years.",
+        "location": ["Mumbai", "Bangalore", "Hyderabad"],
+        "dateOfJoining": "May 2025 (Tentative)",
+        "CGPA": 8.5,
+        "backlogs": 0,
+        "branches": ["CS(All)", "IT(All)"],
+        "CTC": "INR 2,00,000 (total stipend)",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null,
+        "note": "The Code For Good event was the only way this year by which the students can apply for the Software Engineer Program (SEP) at JP Morgan Chase & Co."
+    },
+    {
+        "companyName": "ContraVault AI",
+        "jobDesignation": "Full Stack Developer Intern",
+        "jobDescription": "You should preferably have knowledge about Next.js/Astro.js/React.js, frontend development (web animations/effects in JS + HTML + CSS), blogpost management on React/Node.js, SEO optimization, advanced Python, database management (Appwrite/Firebase), vector database management, prompt engineering, LangChain, serverless cloud functions, cloud server management, and experience with Meta Graph APIs. High commitment to work and willingness to learn is required.",
+        "location": "Remote",
+        "dateOfJoining": "2 Months",
+        "CGPA": "N/A",
+        "backlogs": "N/A",
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", 
+          "GI-BTech", "CIOT-BTech", "MAC-BTech", "ECAM-BTech", 
+          "ECE-BTech", "EE-BTech", "EIOT-BTech", "ICE-BTech", 
+          "ITNS-BTech", "IT-BTech"
+        ],
+        "CTC": "15000 | 15K (Fixed) + 5K (Variable)",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Idemitsu Lube India Pvt. Ltd.",
+        "jobDesignation": "Intern",
+        "jobDescription": "Details to be communicated later.",
+        "location": "Will be communicated later",
+        "dateOfJoining": "May 2025 - July 2025",
+        "CGPA": "N/A",
+        "backlogs": "N/A",
+        "branches": ["ME-BTech", "MEEV-BTech"],
+        "stipend": "70,000 INR",
+        "CTC": "To be informed at the time of PPO",
+        "category": "Core",
+        "numberOfStudentsFinallySelected": 5
+      },
+      {
+        "companyName": "Altre Digital",
+        "jobDesignation": "2 Month Internship",
+        "jobDescription": "Strong understanding of statistical concepts and data analysis techniques. Familiarity with libraries such as Pandas, NumPy, Scikit-learn, TensorFlow, or PyTorch. Basic knowledge of SQL for database querying. Strong problem-solving and analytical skills. Nice-to-Have: Experience with visualization tools (e.g., Tableau, Power BI, Matplotlib, Seaborn). Familiarity with cloud platforms (AWS, GCP, or Azure). Understanding of version control systems like Git. Knowledge of NLP, computer vision, or deep learning.",
+        "location": "Gurugram",
+        "dateOfJoining": "June 2025",
+        "CGPA": "N/A",
+        "backlogs": "N/A",
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", 
+          "CIOT-BTech", "MAC-BTech", "ECAM-BTech", "ECE-BTech", 
+          "EE-BTech", "EIOT-BTech", "ITNS-BTech", "IT-BTech"
+        ],
+        "stipend": "10,000 INR",
+        "CTC": "N/A",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "MPL",
+        "jobDesignation": [
+          "React Native Intern",
+          "Node JS Intern",
+          "Marketing Intern",
+          "Media Planning"
+        ],
+        "jobDescription": "Roles available: React Native Intern, Node JS Intern, Marketing Intern, Media Planning.",
+        "location": "Bangalore",
+        "dateOfJoining": "N/A",
+        "CGPA": "6",
+        "backlogs": "0",
+        "branches": ["ALL-BTech"],
+        "stipend": "35,000 - 40,000 INR per month",
+        "CTC": "N/A",
+        "category": "Tech/Non-Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Kia India",
+        "jobDesignation": "N/A",
+        "jobDescription": "Pre-Placement Talk (PPT) session for core branch students (ME, MEEV, EE, ICE). The session covers company operations, work culture, career growth opportunities, and eligibility criteria for future internships and placements.",
+        "location": "N/A",
+        "dateOfJoining": "N/A",
+        "CGPA": "N/A",
+        "backlogs": "N/A",
+        "branches": ["ME-BTech", "MEEV-BTech", "EE-BTech", "ICE-BTech"],
+        "stipend": "N/A",
+        "CTC": "N/A",
+        "category": "Core",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Gartner",
+        "jobDesignation": "LAUNCH IT - Rotational Development Program",
+        "jobDescription": "Refer to the attached document for complete details.",
+        "location": "Gurugram",
+        "dateOfJoining": "May",
+        "duration": "2 months",
+        "CGPA": "0",
+        "backlogs": "0",
+        "branches": ["ALL-BTech"],
+        "stipend": "50000",
+        "CTC": "12.5 LPA (subject to performance-based evaluation)",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Salescode.AI",
+        "jobDesignation": "Software Engineer",
+        "jobDescription": "Refer to the attached document for complete details.",
+        "location": "Gurgaon Sector 67",
+        "dateOfJoining": "May 2025",
+        "duration": "2.5 months (May - August 2025) + PPO",
+        "CGPA": "6.5 and above",
+        "backlogs": "0",
+        "branches": ["CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "MAC-BTech", "ECAM-BTech", "ECE-BTech", "EIOT-BTech", "IT-BTech", "ITNS-BTech"],
+        "stipend": "60,000",
+        "CTC": "24.60 LPA (20 LPA + 1.6 LPA Variable + 3 LPA)",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Snow Ball Agents AI",
+        "jobDesignation": "AI Whisperer Intern",
+        "jobDescription": "Intern for UI/UX. Requires creativity, problem-solving, and design skills. Candidates should showcase past projects, discuss problem-solving experiences, and propose improvements to existing interfaces.",
+        "location": "New Delhi (Remote, occasional meetups every 1-2 weeks)",
+        "dateOfJoining": "01/02/2025",
+        "duration": "2 months",
+        "CGPA": "5.0 or Above",
+        "backlogs": "Not specified",
+        "branches": "All Courses and All Branches Allowed",
+        "stipend": "30,000 per month",
+        "CTC": "Not applicable",
+        "bond": "No",
+        "category": "Non-tech",
+        "numberOfStudentsFinallySelected": "1",
+        "note": "Initially, the role required UI/UX skills along with some coding knowledge, but it was later updated to only UI/UX. Applications were on a first-come-first-serve basis, and candidates were encouraged to share their portfolios. Shortlisted candidates were contacted directly by HR."
+      },
+      {
+        "companyName": "Signify",
+        "jobDesignation": "11-month Intern",
+        "jobDescription": "Internship opportunity for M.Tech 2026 batch.",
+        "location": "Gurgaon/Noida",
+        "dateOfJoining": "07/2025",
+        "duration": "11 months",
+        "CGPA": "6.0",
+        "backlogs": "0",
+        "branches": ["PCSAI-MTech", "EVLSI-MTech", "PCS-MTech", "PIT-MTech", "PIS-MTech", "PEE-MTech"],
+        "stipend": "To be disclosed",
+        "CTC": "To be disclosed",
+        "bond": "Not specified",
+        "category": "Core",
+        "note": "This internship is specifically for M.Tech students graduating in 2026."
+      },
+      {
+        "companyName": "GrowthZ AI Martech Private Limited",
+        "jobDesignation": "AI LLM Engineer & Backend Engineers",
+        "jobDescription": "Internship opportunity to develop AI/LLM-based marketing automation tools, build probability models for cost optimization, integrate with major platforms, and research cutting-edge AI technologies.",
+        "location": "Gurgaon",
+        "dateOfJoining": "Summer 2025",
+        "CGPA": "7.0",
+        "backlogs": "Not specified",
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "MAC-BTech",
+          "CIOT-BTech", "ECE-BTech", "EIOT-BTech", "ITNS-BTech", "IT-BTech", "ECAM-BTech"
+        ],
+        "stipend": "10,000 - 25,000 per month",
+        "CTC": "Not applicable (internship)",
+        "bond": "Not specified",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Siemens-Software",
+        "jobDesignation": "Software Intern + PPO (Performance Based)",
+        "jobDescription": "Internship opportunity in software development with a performance-based Pre-Placement Offer (PPO).",
+        "location": ["Noida", "Bangalore", "Kolkata"],
+        "dateOfJoining": "July - Dec 2025",
+        "CGPA": "7.5",
+        "backlogs": "0",
+        "branches": ["PCS-MTech", "PIT-MTech", "PCSAI-MTech", "PIS-MTech"],
+        "stipend": "50,000 per month",
+        "CTC": "26,00,000 Approx",
+        "bond": "Not specified",
+        "category": "Tech",
+        "numberOfStudentsFinallySelected": null
+      },
+      {
+        "companyName": "Nvidia",
+        "jobDesignation": "Hardware Engineering Intern (11 months) + PPO (offered based on internship performance)",
+        "location": ["Bangalore", "Hyderabad", "Pune"],
+        "dateOfJoining": "07/2025",
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": 0,
+        "branches": ["EVLSI-MTech", "PEE-MTech"],
+        "ctc": {
+          "stipend": 80000,
+          "annualCTCIncludingEquity": 3628299,
+          "baseSalary": 1900000
+        },
+        "stipend": 80000,
+        "category": "core",
+        "note": "Hiring Process not complete yet",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "The Leading Solutions",
+        "jobDesignation": "Intern (2 Months)",
+        "jobDescription": [
+          "Marketing Intern",
+          "Marketing + HR Intern",
+          "Marketing + Finance Intern"
+        ],
+        "location": ["Delhi", "WFH"],
+        "dateOfJoining": "Summer internship period (As per college) / To be notified by company",
+        "cgpaCriteria": {
+          "MBA": 5.5,
+          "BBA": 6.0
+        },
+        "backlogsAllowed": null,
+        "branches": ["MBA", "BBA"],
+        "ctc": {
+          "intern": {"max": 25000},
+          "ppo": {
+            "UG": {"min": 350000, "max": 550000},
+            "PG": {"min": 550000, "max": 650000}
+          }
+        },
+        "stipend": {"max": 25000},
+        "category": "non-tech/marketing",
+        "numberOfStudentsSelected": 16
+      },
+      {
+        "companyName": "MediaTek India Pvt Ltd",
+        "jobDesignation": "Software Development Engineer",
+        "jobDescription": "Attached",
+        "location": ["Noida"],
+        "dateOfJoining": "06/2025",
+        "duration": "11 Months",
+        "cgpaCriteria": 7.0,
+        "backlogsAllowed": 0,
+        "branches": ["PCSAI-MTech", "PCS-MTech", "VLSI"],
+        "ctc": {
+          "stipend": 45000,
+          "basePay": 1350000,
+          "variablePay": {"max": 200000},
+          "benefits": 100000,
+          "signOnBonus": 250000,
+          "totalCTC": 1900000
+        },
+        "category": "tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Coding Blocks",
+        "jobDesignation": "SDE Intern",
+        "jobDescription": {
+          "gains": [
+            "Hands-on experience: Work on real-world projects",
+            "Mentorship: Learn from seasoned developers",
+            "Skill enhancement: Master MongoDB, Express.js, React.js, and Node.js",
+            "Networking opportunities: Connect with industry professionals",
+            "Monthly stipend: To support your learning journey"
+          ],
+          "requirements": [
+            "Strong understanding of JavaScript",
+            "Knowledge of the MERN stack and Django",
+            "Passion for learning and problem-solving",
+            "A knack for building innovative web applications"
+          ]
+        },
+        "location": ["Pitampura"],
+        "dateOfJoining": "05/2025",
+        "duration": "6 months (2 months on-site, 4 months remote)",
+        "cgpaCriteria": 8.0,
+        "backlogsAllowed": 0,
+        "branches": [
+          "CSE-BTech", "CSDA-BTech", "CSDS-BTech", "MAC-BTech", "CIOT-BTech",
+          "PCSAI-MTech", "IT-BTech", "ITNS-BTech", "PCS-MTech", "PIT-MTech"
+        ],
+        "ctc": {
+          "stipend": "20000 max 30000 based on performance",
+          "ppoCondition": "PPO will depend on performance during intern period"
+        },
+        "category": "tech",
+        "additionalInfo": ["Must have knowledge of MERN and Django"],
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "DigiIQ",
+        "jobDesignation": ["UI/UX Intern", "AI Developer Intern"],
+        "jobDescription": {
+          "AI Developer Intern": {
+            "eligibility": "Open for B.Tech candidates only",
+            "responsibilities": [
+              "Implementing Image Processing and Generative AI solutions for images",
+              "Expertise in AI-driven image generation and enhancement techniques"
+            ]
+          },
+          "UI/UX Intern": {
+            "eligibility": "Open for B.Des and B.Tech candidates",
+            "responsibilities": [
+              "Designing a user-friendly and visually appealing dashboard for an upcoming product",
+              "Proficient in Figma for design creation and prototyping"
+            ]
+          }
+        },
+        "location": ["Delhi"],
+        "dateOfJoining": "Immediate",
+        "cgpaCriteria": 6.0,
+        "branches": ["ALL-BTech", "BDesign-BDesign"],
+        "ctc": {
+          "AI Developer Intern": 20000,
+          "UI/UX Intern": 15000
+        },
+        "category": ["tech", "non-tech"],
+        "additionalInfo": "This will be a hybrid internship with 1 day offline; you must commute to the office on Saturday or Sunday.",
+        "numberOfStudentsSelected": 3
+      },
+      {
+        "companyName": "APEX ACREAGES PRIVATE LIMITED",
+        "jobDesignation": "HR Intern",
+        "jobDescription": "Attached",
+        "location": ["Gurugram, Haryana"],
+        "dateOfJoining": "March 2025",
+        "cgpaCriteria": null,
+        "branches": ["BBA", "MBA"],
+        "eligibility": "For HR Intern, only students with HR specialization are eligible",
+        "stipend": {
+          "BBA": 8000,
+          "MBA": 10000
+        },
+        "capCriteria": null,
+        "bond": null,
+        "category": "Non-Tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "BlueStar Limited",
+        "jobDesignation": "Graduate Engineer Trainee",
+        "jobDescription": "Effective complaint management and ensuring RT / TAT is achieved as per the objectives. To ensure preventive maintenance is rendered effectively and timely. Regular visit to customer and audits of site conditions and work done. Interact and coordinate with channel partners for day-to-day call management. Dealer infrastructure evaluation and time-bound corrective actions based on it. Forecasting of spares and float stock planning at dealer's end. Validation of job completed & reports. Evaluate dealer performance & initiate corrective actions. Coordinate for Warranty claims filing and return of defectives. Identify and impart first-level training to technicians. Regular feedback on field failures and analysis. Conduct audit for quality of installation / PMS / BDS / safety / parts claims on a regular basis. Ensure safe work atmosphere. Timely feedback and MIS submission.",
+        "location": ["Will be informed later (in city only)"],
+        "dateOfJoining": "January 2026",
+        "cgpaCriteria": 6,
+        "backlogs": 0,
+        "branches": ["ME-BTech", "MEEV-BTech", "EE-BTech"],
+        "ctc": {
+          "total": 625000,
+          "fixedPay": 525000,
+          "variablePay": "Variable Pay as per Division will be applicable. (Salary will increase depending on market conditions next year)"
+        },
+        "category": "Core",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Movidu Technologies Private Limited",
+        "jobDesignation": "Business Development",
+        "jobDescription": "Movidu is an innovative company that works with both B2B and B2C sectors. In the B2B side, Movidu creates tech products for small-scale companies. In the B2C area, Movidu acts as an aggregator, connecting companies with recent graduates and providing opportunities like live projects and industrial workshops.",
+        "location": ["Noida"],
+        "duration": "2 Months",
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 6,
+        "backlogs": 0,
+        "branches": ["MBA"],
+        "stipend": {
+          "fixed": 12000,
+          "variable": 12000
+        },
+        "category": "Non-Tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Innovis",
+        "jobDesignation": "ML Engineer (for a project) - Intern",
+        "jobDescription": "Proficiency in Python programming and familiarity with Computer vision libraries. Understanding of ML models and exposure to common ML libraries from basic NumPy and Scikit Learn to Keras and TensorFlow. The intern will work in the field of photogrammetry, focusing on Structure from Motion (SFM) to create 3D visual models from multiple images. Responsibilities include recognizing components from their physical dimensions, detecting faults in 3D objects using computer vision and ML techniques, and generating an inventory of components.",
+        "location": ["Gurgaon"],
+        "dateOfJoining": "2 months (onsite), extendable to 4-6 months hybrid based on project",
+        "cgpaCriteria": 7.5,
+        "backlogs": 0,
+        "branches": [
+          "CSE-BTech",
+          "CSAI-BTech",
+          "CSDA-BTech",
+          "CSDS-BTech",
+          "CIOT-BTech",
+          "MAC-BTech",
+          "ECE-BTech",
+          "ITNS-BTech",
+          "IT-BTech",
+          "GI-BTech",
+          "ECAM-BTech",
+          "EIOT-BTech"
+        ],
+        "stipend": 25000,
+        "category": "Tech",
+        "howToApply": {
+          "deadline": "27/12/2024 08:00 PM",
+          "link": "https://student.tnpnsut.in/#/companies/676d32eeb4a3e33078697799"
+        },
+        "note": "5 students shortlisted for interviews",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Placewit",
+        "jobDesignation": [
+          "Software Engineer Intern",
+          "Founder's Office Core Intern",
+          "Content Developer Intern",
+          "Business Development Intern"
+        ],
+        "jobDescription": "JD attached (link: https://drive.google.com/file/d/1b8_FNFzAPCoPQDQo1rCZ7wGRtzGbU3lV/view).",
+        "location": ["Remote"],
+        "dateOfJoining": "June 2025",
+        "branches": ["ALL-BTech"],
+        "stipend": {
+          "Software Engineer Intern": 40000,
+          "Founder's Office Core Intern": 30000,
+          "Content Developer Intern": 12000,
+          "Business Development Intern": 10000
+        },
+        "category": "Tech/Non-Tech",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "RMSI Private Ltd.",
+        "jobDesignation": "Content Writer",
+        "jobDescription": [
+          "Work experience of zero to one year as a copywriter, content writer, or a similar role is preferable.",
+          "A portfolio of published articles or written samples to assess writing skills.",
+          "Exceptional oral and written communication skills.",
+          "Excellent grammar and punctuation skills.",
+          "Patience in editing content multiple times as per requirements."
+        ],
+        "location": ["Noida, Sector 16"],
+        "dateOfJoining": "6 Month Contractual",
+        "cgpaCriteria": 0,
+        "branches": ["ALL"],
+        "ctc": {
+          "annual": 3.84,
+          "monthlyGross": 32000
+        },
+        "category": "non-tech",
+        "subCategory": null,
+        "optionalCriteria": {
+          "10th Percentage/GPA": null,
+          "12th Percentage/GPA": null,
+          "Grad GPA": null
+        },
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Macquarie",
+        "jobDesignation": "Intern at Risk Management Group",
+        "location": ["Gurgaon"],
+        "dateOfJoining": "25/05/2025",
+        "cgpaCriteria": null,
+        "backlogsAllowed": 2,
+        "branches": [
+          "CSE-BTech", "ECE-BTech", "EE-BTech", "IT-BTech", "CSAI-BTech", "CSDA-BTech", 
+          "CSDS-BTech", "CIOT-BTech", "MAC-BTech", "EIOT-BTech", "ICE-BTech", "ITNS-BTech", 
+          "ME-BTech", "MEEV-BTech", "ECAM-BTech"
+        ],
+        "stipend": 50000,
+        "capCriteria": null,
+        "bond": null,
+        "category": "Tech",
+        "numberOfStudentsSelected": 2,
+        "note": "16 studens were shortlisted, out of which 2 were selected"
+      },
+      {
+        "companyName": "Indigo Airlines",
+        "jobDesignation": "Data Scientist Summer Intern",
+        "jobDescription": {
+          "rolesAndResponsibilities": [
+            "Provide AI software engineering knowledge and technical expertise to deliver unique software and applications.",
+            "Productionalize state-of-the-art research into maintainable and well-engineered AI software.",
+            "Improve AI/Machine Learning models by conducting experiments and analyzing results to address business requirements.",
+            "Coordinate with various teams to solve problems efficiently and effectively.",
+            "Collaborate with other engineers and scientists on projects and ideas.",
+            "Mentor interns."
+          ],
+          "skillsRequired": [
+            "Exceptional Python programming skills (C/C++ coding skill is a plus).",
+            "Proficiency in deep learning concepts and frameworks such as TensorFlow or PyTorch.",
+            "Familiarity with training production-level deep learning models such as Feed Forward Neural Networks, CNN, LSTM, GANs, etc.",
+            "Experience in deploying efficient and optimized ML models with TensorRT, ONNX, or Triton inference server frameworks with fast APIs is a plus.",
+            "Demonstrated experience in successfully solving ML problems in NLP or CV.",
+            "A high level of attention to detail and the ability to produce accurate and consistent engineering documentation."
+          ]
+        },
+        "location": "N/A",
+        "dateOfJoining": "N/A",
+        "cgpaCriteria": 0,
+        "backlogsAllowed": 0,
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", 
+          "CIOT-BTech", "ITNS-BTech", "IT-BTech", "MAC-BTech"
+        ],
+        "ctc": 50000,
+        "stipend": 50000,
+        "capCriteria": null,
+        "bond": null,
+        "category": "Tech",
+        "note": "The list of selected students is not final",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "Hero Motocorp",
+        "jobDesignation": "D&IT & Plant Operation - Internship",
+        "jobDescription": "PFA JD (on portal)",
+        "location": "PAN India",
+        "dateOfJoining": "2 Months",
+        "cgpaCriteria": 6,
+        "backlogsAllowed": 0,
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", 
+          "CIOT-BTech", "MAC-BTech", "ITNS-BTech", "IT-BTech", 
+          "ME-BTech", "MEEV-BTech", "GI-BTech"
+        ],
+        "ctc": 30000,
+        "stipend": 30000,
+        "category": "Tech",
+        "additionalInfo": "Students from CS and IT department are allowed for D/IT role ONLY and Students from Mechanical Department are allowed for procurement role ONLY.",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Walmart Global Tech India",
+        "jobDesignation": "Software Engineering Intern",
+        "numberOfStudentsSelected": 3
+      },
+      {
+        "companyName": "Fundwave",
+        "jobDesignation": ["DevOps Intern", "Full Stack Intern"],
+        "jobDescription": "N/A",
+        "location": "Gurgaon",
+        "dateOfJoining": "N/A",
+        "cgpaCriteria": 5,
+        "backlogsAllowed": 20,
+        "branches": ["ALL-BTech"],
+        "ctc": 65000,
+        "stipend": 65000,
+        "category": "tech",
+        "numberOfStudentsSelected": 1,
+        "shortlistedStudents": {
+          "fullStack": 3,
+          "devOps": 2
+        }
+      },
+      {
+        "companyName": "BlozumAI",
+        "jobDesignation": "FullStack Developer Intern",
+        "jobDescription": "N/A",
+        "location": "Remote",
+        "dateOfJoining": "End of November 2024 (Minimum 2 months)",
+        "cgpaCriteria": 6,
+        "backlogsAllowed": 2,
+        "branches": ["ALL-BTech", "PCSAI-MTech"],
+        "ctc": 15000,
+        "stipend": {
+          "fixed": 10000,
+          "variable": 5000
+        },
+        "category": "tech",
+        "additionalInfo": "Performance-based PPO available: 12 LPA (10 LPA base).",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Amazon",
+        "jobDesignation": "Team Leader",
+        "jobDescription": "N/A",
+        "location": "Pan India",
+        "dateOfJoining": "July 2025",
+        "cgpaCriteria": 6,
+        "backlogsAllowed": 0,
+        "branches": ["ALL-BTech"],
+        "ctc": 20000,
+        "stipend": 20000,
+        "category": "non-tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Arvind Fashions",
+        "jobDesignation": "Fashion Consultant Intern",
+        "jobDescription": [
+          "Customer Relationship Management",
+          "Retail Sales",
+          "Managing and Nurturing the Company’s interactions with the customers",
+          "Proactive Stock Handling and Effective Stock Merchandising",
+          "Applying Visual Merchandising Concepts and Guidelines",
+          "Understanding Customer Behavior",
+          "Providing Instant Feedback to Customers/Stock Information to the Managers"
+        ],
+        "location": "Pan India",
+        "cgpaCriteria": 6,
+        "backlogsAllowed": "no info",
+        "branches": ["BBA", "MBA", "B.Des", "M.Sc", "ALL-BTech"],
+        "stipend": {
+          "UG": "10,000 - 12,000",
+          "PG": "12,000 - 15,000"
+        },
+        "category": "non-tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "PayPal",
+        "jobDesignation": ["Software Engineer Intern", "Data Science Intern"],
+        "jobDescription": null,
+        "location": ["Chennai", "Bangalore", "Hyderabad"],
+        "mode": ["In-Person", "Hybrid"],
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 8.5,
+        "backlogsAllowed": 20,
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech",
+          "CSDS-BTech", "CIOT-BTech", "MAC-BTech",
+          "IT-BTech", "ITNS-BTech"
+        ],
+        "ctc": null,
+        "stipend": "100,000 per month + One-time sign-on cash payment of INR 100,000",
+        "category": "tech",
+        "subCategory": "dream",
+        "optionalCriteria": {},
+        "additionalInfo": "No OA, Resume Shortlisting was done",
+        "numberOfStudentsSelected": 1
+      },
+      {
+        "companyName": "Fast Retailing",
+        "jobDesignation": "IT Intern",
+        "jobDescription": "N/A",
+        "location": ["Gurgaon (5 weeks)", "Tokyo (1-2 weeks based on performance)"],
+        "mode": ["In-Person"],
+        "dateOfJoining": "Tentatively May 2025",
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": 0,
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech",
+          "CSDS-BTech", "CIOT-BTech", "MAC-BTech",
+          "ECAM-BTech", "ECE-BTech", "ITNS-BTech",
+          "IT-BTech", "EIOT-BTech"
+        ],
+        "ctc": "70000 INR / month | If PPO converted: 7,945,000 JPY",
+        "stipend": "70000 INR per month",
+        "category": "tech",
+        "bond": "3 years (if PPO converted)",
+        "howToApply": {
+          "applicationLink": "https://student.tnpnsut.in/#/companies/670969bde447d32fe3d96df7",
+          "applicationDeadline": "12 October 2024, 11:00 PM"
+        },
+        "additionalInfo":"No OA, Resume Shortlisting was done",
+        "numberOfStudentsSelected": 6
+      },
+      {
+        "companyName": "Twilio",
+        "jobDesignation": "Software Engineer Intern",
+        "jobDescription": "N/A",
+        "location": "Bengaluru / remote",
+        "dateOfJoining": "2 months",
+        "cgpaCriteria": 6.5,
+        "backlogs": 0,
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech", "MAC-BTech", 
+          "ECAM-BTech", "ECE-BTech", "EE-BTech", "EIOT-BTech", "ITNS-BTech", "IT-BTech", "ICE-BTech"
+        ],
+        "ctc": {
+          "basePay": 111375,
+          "connectivityAllowance": 5500,
+          "additionalPerks": "MacBook (returned at the end of internship)"
+        },
+        "category": "Tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Cummins",
+        "jobDesignation": "Intern",
+        "jobDescription": "Cummins Group in India is a leading provider of integrated power solutions for the industrial and automotive sectors. It operates through twelve companies. Established in 1962 and headquartered in Pune, Cummins India Limited (CIL) is the oldest and largest entity within the group and is one of the leading power solutions providers in the country. Cummins India is committed to fostering a diverse and inclusive work environment, being an equal opportunity employer.",
+        "location": [
+          "Phaltan, Pune (Maharashtra)",
+          "Jamshedpur (Jharkhand)",
+          "Dewas, Pithampur (Madhya Pradesh)"
+        ],
+        "dateOfJoining": "N/A",
+        "cgpaCriteria": 6,
+        "backlogs": 0,
+        "branches": [
+          "ECE-BTech", "EE-BTech", "ECAM-BTech", "ICE-BTech", "ME-BTech", "MEEV-BTech"
+        ],
+        "ctc": {
+          "btech": 25000,
+          "mtech": 32500
+        },
+        "category": "Core",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "Bechtel",
+        "jobDesignation": [
+          "Summer Intern - Control",
+          "Summer Intern - Estimating"
+        ],
+        "jobDescription": "N/A",
+        "location": "Gurugram",
+        "dateOfJoining": "N/A",
+        "cgpaCriteria": 7,
+        "backlogs": 20,
+        "branches": ["ICE-BTech"],
+        "ctc": 25000,
+        "category": "Core",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "Ukti",
+        "jobDesignation": "Graphic Design Intern",
+        "jobDescription": "N/A",
+        "location": "Remote",
+        "dateOfJoining": "Immediate",
+        "cgpaCriteria": "N/A",
+        "backlogs": "N/A",
+        "branches": "ALL BRANCHES",
+        "ctc": 5000,
+        "category": "core/tech/non-tech",
+        "numberOfStudentsSelected": null
+      },
+      {
+        "companyName": "LinkedIn",
+        "jobDesignation": "Software Engineer Intern",
+        "jobDescription": "Software Engineering interns at LinkedIn work on advanced information-retrieval algorithms, massive scalability infrastructure and storage solutions, and large-scale applications for users on web and mobile devices. Interns will work on real-life projects critical to the company and have the opportunity to learn from top technical talent.",
+        "location": "Bangalore",
+        "dateOfJoining": "May-July 2025",
+        "cgpaCriteria": 0,
+        "backlogsAllowed": 2,
+        "branchesEligible": [
+          "CSE-BTech",
+          "CSAI-BTech",
+          "CSDA-BTech",
+          "CSDS-BTech",
+          "CIOT-BTech",
+          "MAC-BTech",
+          "ITNS-BTech",
+          "IT-BTech"
+        ],
+        "stipend": "To be declared",
+        "category": "Tech"
+      },
+      {
+        "companyName": "Auxia",
+        "jobDesignation": "SDE Intern",
+        "jobDescription": "Software Development Engineer (SDE) role.",
+        "location": "Bangalore",
+        "duration": "2 months",
+        "dateOfJoining": "Not specified",
+        "cgpaCriteria": 7.5,    
+        "backlogsAllowed": 0,
+        "branchesEligible": [
+          "CSE-BTech",
+          "CSAI-BTech",
+          "CSDA-BTech",
+          "CSDS-BTech",
+          "CIOT-BTech",
+          "IT-BTech",
+          "ITNS-BTech"
+        ],
+        "ctc": {
+          "option1": {
+            "stipend": "80,000/month",
+            "accommodation": "Included"
+          },
+          "option2": {
+            "stipend": "1,00,000/month",
+            "accommodation": "Not included"
+          },
+          "fullTimeCTC": "20 LPA"
+        },
+        "category": "Tech",
+        "numberOfStudentsSelected": 1
+      },
+      {
+        "companyName": "Morgan Stanley",
+        "jobDesignation": "Summer Intern",
+        "jobDescription": "N/A",
+        "location": ["Mumbai", "Bengaluru"],
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": "Not specified",
+        "branchesEligible": [
+          "CSE-ALL",
+          "ECE-ALL",
+          "IT-ALL",
+          "EE-ALL",
+          "ICE-ALL"
+        ],
+        "stipend": "87,000/month",
+        "category": "tech",
+        "numberOfStudentsSelected": 4
+      },
+      {
+        "companyName": "Expedia Group (EG)",
+        "jobDesignation": [
+          "SDE Intern",
+          "Product Management Intern"
+        ],
+        "jobDescription": "N/A",
+        "location": "Gurgaon",
+        "cgpaCriteria": "0",
+        "backlogs": "0",
+        "branchesEligible": {
+          "SDE Intern": ["CSE-ALL", "IT-ALL", "ECE-ALL", "EE"],
+          "Product Management Intern": ["BTech-ALL"]
+        },
+        "stipend": "40,000/month + extra benefits (Performance-based PPO)",
+        "category": "Tech/Non-Tech",
+        "numberOfStudentsSelected": 9
+      },
+      {
+        "company": "Texas Instruments",
+        "jobDesignation": "Field Application Engineer Intern",
+        "jobDescription": "PFA",
+        "location": ["Delhi", "Bangalore", "Pune"],
+        "dateOfJoining": "2 Months",
+        "cgpaCriteria": 6.0,
+        "backlogsAllowed": 0,
+        "branchesEligible": ["ECAM-BTech", "ECE-BTech", "EE-BTech", "EIOT-BTech", "ICE-BTech"],
+        "ctc": 60000,
+        "ppoCtc": 3677510,
+        "capCriteria": null,
+        "bond": null,
+        "category": "core",
+        "numberOfStudentsSelected": 0,
+        "note": "No candidates were selected for the role."
+      },
+      {
+        "company": "Juspay",
+        "jobDesignation": ["Software Development Engineer (SDE)", "Full-Time Intern"],
+        "branchesEligible": ["CSE-ALL"],
+        "location": "Not Specified",
+        "ctc": 2700000,
+        "internshipStipend": 40000,
+        "eligibility": {
+          "degree": ["B.E.", "B.Tech."],
+          "branches": "All",
+          "batch": [2024, 2025]
+        },
+        "category": "tech",
+        "numberOfStudentsSelected": null,
+        "note": "Off-campus opportunity shared by TnP"
+      },
+      {
+        "company": "Natwest Digital Services",
+        "jobDesignation": "Intern Trainee (Software)",
+        "location": ["Gurugram", "Chennai", "Bangalore"],
+        "internshipStipend": 45000,
+        "cgpa": 6.5,
+        "backlogs": 0,
+        "branches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "GI-BTech",
+          "CIOT-BTech", "MAC-BTech", "ECAM-BTech", "ECE-BTech", "EIOT-BTech",
+          "ITNS-BTech", "IT-BTech"
+        ],
+        "category": "tech",
+        "numberOfStudentsSelected": 3,
+        "note": ""
+      },
+      {
+        "company": "Samsara Technologies India Private Limited",
+        "jobDesignation": "Software Engineering",
+        "location": ["Bengaluru"],
+        "ctc": null,
+        "internshipStipend": 95000,
+          "cgpa": 7,
+          "backlogs": null,
+          "branches": [
+            "CIOT-BTech", "CSAI-BTech", "CSDS-BTech", "CSDA-BTech", "CSE-BTech",
+            "IT-BTech", "MAC-BTech", "ITNS-BTech", "ECE-BTech", "EIOT-BTech",
+            "ECAM-BTech", "PCS-MTech", "PCSAI-MTech"
+          ],
+        "category": "tech",
+        "numberOfStudentsSelected": 0,
+        "note": "No students were selected for this opportunity."
+      },
+      {
+        "companyName": "Samsara Technologies India Private Limited",
+        "jobDesignation": "Software Engineer",
+        "jobDescription": "TnP Portal",
+        "location": "Bengaluru",
+        "cgpaCriteria": 7,
+        "branches": [
+          "CIOT-BTech", "CSAI-BTech", "CSDS-BTech", "CSDA-BTech", 
+          "CSE-BTech", "IT-BTech", "MAC-BTech", "ITNS-BTech", 
+          "ECE-BTech", "EIOT-BTech", "ECAM-BTech", "PCS-MTech", "PCSAI-MTech"
+        ],
+        "internshipStipend": 95000,
+        "category": "Tech"
+      },
+      {
+        "companyName": "Nvidia",
+        "jobDesignation": "Hardware Intern",
+        "location": ["Bangalore", "Hyderabad"],
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 8,
+        "backlogsAllowed": 0,
+        "branches": ["CSE-BTech", "ECE-BTech", "EE-BTech"],
+        "internshipStipend": 75000,
+        "ctcPostPpo": 2899758,
+        "category": "Core"
+      },
+      {
+        "companyName": "Unify Apps",
+        "jobDesignation": "Product Engineer Intern",
+        "jobDescription": "Product Engineer Intern role with stipend and PPO details mentioned.",
+        "location": ["Gurgaon"],
+        "dateOfJoining": null,
+        "cgpaCriteria": 7,
+        "backlogsAllowed": 0,
+        "eligibleBranches": ["ALL-BTech"],
+        "internshipStipend": 50000,
+        "ctcPostPPO": 2000000,
+        "additionalBenefits": {
+          "returnFlightTicket": true,
+          "initialAccommodation": "15 days",
+          "healthInsurance": true,
+          "variableComponent": false
+        },
+        "category": "tech",
+        "numberOfStudentsSelected": 12
+      },
+      {
+        "companyName": "Goldman Sachs",
+        "jobDesignation": "Software Engineer Intern",
+        "note": "Off-campus opportunity shared by TnP"
+      },
+      {
+        "companyName": "Cisco",
+        "jobDesignation": "Cisco Internship Opportunity",
+        "jobDescription": "SDE Summer Intern",
+        "location": ["Bangalore"],
+        "dateOfJoining": "2 Months",
+        "cgpaCriteria": 5,
+        "backlogsAllowed": 0,
+        "eligibleBranches": ["ALL-BTech", "ALL-MTech"],
+        "ctc": {
+          "bachelor": 98000,
+          "master": 121300
+        },
+        "numberOfStudentsSelected": null,
+        "category": "Tech"
+      },
+      {
+        "companyName": "MongoDB",
+        "jobDesignation": "Data Engineer Intern",
+        "jobDescription": "Refer to the attached JD for details.",
+        "location": ["Gurgaon"],
+        "dateOfJoining": "May/June 2025",
+        "cgpaCriteria": 5,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech",
+          "CIOT-BTech", "MAC-BTech", "ITNS-BTech", "IT-BTech"
+        ],
+        "ctc": 90000,
+        "category": "tech",
+        "numberOfStudentsSelected": null,
+        "note": "The organization has canceled their on-campus recruitment process for the batch of 2026."
+      },
+      {
+        "companyName": "Wells Fargo",
+        "jobDesignation": "Intern Analyst",
+        "jobDescription": "Refer to the attached JD for details.",
+        "location": ["Hyderabad", "Chennai", "Bangalore"],
+        "dateOfJoining": null,
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "BT-BTech", "CSDA-BTech", "CSDS-BTech",
+          "CIOT-BTech", "MAC-BTech", "ECAM-BTech", "ECE-BTech", "EE-BTech",
+          "EIOT-BTech", "ICE-BTech", "ITNS-BTech", "IT-BTech"
+        ],
+        "stipend": 90000,
+        "category": "tech",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "Schlumberger",
+        "jobDesignation": "SDE Intern",
+        "jobDescription": "Full Stack Software Engineer",
+        "location": ["Pune"],
+        "dateOfJoining": null,
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech",
+          "CIOT-BTech", "MAC-BTech", "ECAM-BTech", "ECE-BTech",
+          "EE-BTech", "EIOT-BTech", "ITNS-BTech", "IT-BTech"
+        ],
+        "stipend": 60000,
+        "ctcIfPpoConverted": 2413934,
+        "category": "tech",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "MyKaarma",
+        "jobDesignation": "Software Engineer Intern",
+        "jobDescription": "Software Engineer Intern",
+        "location": ["Noida"],
+        "dateOfJoining": "June 2025",
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": 20,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech",
+          "GI-BTech", "CIOT-BTech", "MAC-BTech", "ECAM-BTech",
+          "ECE-BTech", "EE-BTech", "EIOT-BTech", "ITNS-BTech",
+          "IT-BTech", "PCSAI-MTech"
+        ],
+        "internshipStipend": 100000,
+        "category": "tech",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "Texas Instruments",
+        "jobDesignation": "Intern",
+        "jobDescription": "PFA",
+        "location": ["Bangalore"],
+        "dateOfJoining": "2 months",
+        "cgpaCriteria": 6,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "BTech-CSE(All)", "ECE(All)", "ICE", "EE"
+        ],
+        "stipend": 60000,
+        "capCriteria": "Nil",
+        "bond": "None",
+        "category": "Core",
+        "hiringProcess": null,
+        "numberOfStudentsSelected": 7,
+        "note": "The intern was in three domains, Digital, Analog and Embedded Software. Students could apply for any two domains. 3 students were also extended the offers as Interns through the Wish Program (apart from the 7 selected through interviews)"
+      },
+      {
+        "companyName": "American Express (Amex)",
+        "jobDesignation": "Product Development & Management Intern",
+        "location": ["Gurgaon", "Bangalore"],
+        "dateOfJoining": "May'25 - July'25",
+        "cgpaCriteria": 7,
+        "backlogsAllowed": 0,
+        "eligibleBranches": ["ALL-BTech"],
+        "stipend": 100000,
+        "ctc": 1915949,
+        "category": "Non-Tech",
+        "numberOfStudentsSelected": 5
+      },
+      {
+        "companyName": "Cultfit",
+        "jobDesignation": "Engineering Intern",
+        "location": ["Bangalore"],
+        "dateOfJoining": "April 2025",
+        "cgpaCriteria": "Not specified",
+        "backlogsAllowed": "Not specified",
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "GI-BTech", 
+          "MAC-BTech", "CIOT-BTech", "ECAM-BTech", "ECE-BTech", "EIOT-BTech"
+        ],
+        "stipend": 50000,
+        "ctc": 1700000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 0,
+        "note": "No candidates were selected for the role."
+      },
+      {
+        "companyName": "Intuit",
+        "jobDesignation": "Software Engineer Intern",
+        "location": ["Bangalore"],
+        "duration": "2 Months",
+        "cgpaCriteria": 8,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech",
+          "MAC-BTech", "ECAM-BTech", "ECE-BTech", "EE-BTech", "EIOT-BTech",
+          "ITNS-BTech", "IT-BTech"
+        ],
+        "stipend": 120000,
+        "ctc": null,
+        "category": "Tech",
+        "numberOfStudentsSelected": 3
+      },
+      {
+        "companyName": "Rippling",
+        "jobDesignation": "Software Development Intern",
+        "location": ["Bangalore"],
+        "duration": "3 Months (May-July)",
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 5,
+        "backlogsAllowed": 0,
+        "eligibleBranches": ["ALL-BTech"],
+        "stipend": 100000,
+        "ctc": 3600000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 8
+      },
+      {
+        "companyName": "Atlassian",
+        "jobDesignation": "Software Engineering Intern",
+        "location": ["Remote"],
+        "duration": null,
+        "dateOfJoining": null,
+        "cgpaCriteria": 7,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "GI-BTech",
+          "CIOT-BTech", "MAC-BTech", "ECAM-BTech", "ECE-BTech", "EE-BTech",
+          "EIOT-BTech", "ITNS-BTech", "IT-BTech"
+        ],
+        "stipend": 130000,
+        "ctc": null,
+        "category": "Tech",
+        "numberOfStudentsSelected": 4
+      },
+      {
+        "companyName": "Sprinklr",
+        "jobDesignation": "Product Engineer Intern",
+        "location": ["Gurgaon"],
+        "duration": "May - July 2025",
+        "dateOfJoining": null,
+        "cgpaCriteria": null,
+        "backlogsAllowed": null,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech",
+          "MAC-BTech", "CIOT-BTech", "ECE-BTech", "ECAM-BTech",
+          "ITNS-BTech", "IT-BTech", "EIOT-BTech"
+        ],
+        "stipend": 150000,
+        "ctc": 3000000,
+        "subCategory": "Tech",
+        "numberOfStudentsSelected": 1
+      },
+      {
+        "companyName": "Arcesium",
+        "jobDesignation": "Intern",
+        "location": ["Hyderabad"],
+        "duration": "8 weeks (Mid-May 2026 start)",
+        "dateOfJoining": null,
+        "cgpaCriteria": 7,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech",
+          "IT-BTech", "ITNS-BTech", "ECE-BTech", "ECAM-BTech", "EE-BTech"
+        ],
+        "stipend": 125000,
+        "ctc": null,
+        "category": "Tech",
+        "numberOfStudentsSelected": 2
+      },
+      {
+        "companyName": "Estee Advisors",
+        "jobDesignation": ["Analyst - Strategy", "Analyst - Technology"],
+        "location": ["Gurgaon"],
+        "duration": null,
+        "dateOfJoining": "06/2025",
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": null,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech",
+          "MAC-BTech", "ECAM-BTech", "ITNS-BTech", "IT-BTech"
+        ],
+        "stipend": null,
+        "ctc": 100000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 5
+      },
+      {
+        "companyName": "Schrodinger",
+        "jobDesignation": "SDE Intern",
+        "jobDescription": null,
+        "location": ["Hyderabad"],
+        "duration": null,
+        "dateOfJoining": "05/2025",
+        "cgpaCriteria": 7,
+        "backlogsAllowed": null,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech",
+          "MAC-BTech", "ECAM-BTech", "ECE-BTech", "EIOT-BTech", "EE-BTech",
+          "ITNS-BTech", "IT-BTech", "GI-BTech"
+        ],
+        "stipend": 150000,
+        "ctc": 3100000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 0,
+        "note": "No candidates were selected for the role."
+      },
+      {
+        "companyName": "Uber",
+        "jobDesignation": "SDE Intern",
+        "jobDescription": null,
+        "location": null,
+        "duration": null,
+        "dateOfJoining": null,
+        "cgpaCriteria": null,
+        "backlogsAllowed": null,
+        "eligibleBranches": "All-BTech",
+        "stipend": "N/A",
+        "category": "Tech",
+        "numberOfStudentsSelected": 2,
+        "note": "No student from 2026 batch were selected for this opportunity. 2 students from 2025 batch were selected for 6 month intern. Candidates who were a part of UberShe++ could sit for the interviews directly."
+      },
+      {
+        "companyName": "UBER",
+        "jobDesignation": "Software Engineering Intern",
+        "jobDescription": null,
+        "location": ["Bangalore", "Hyderabad"],
+        "duration": null,
+        "dateOfJoining": null,
+        "cgpaCriteria": null,
+        "backlogsAllowed": null,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech",
+          "ECAM-BTech", "MAC-BTech", "ECE-BTech", "EE-BTech", "EIOT-BTech",
+          "ITNS-BTech", "IT-BTech", "ICE-BTech", "ME-BTech", "MEEV-BTech"
+        ],
+        "stipend": 177000,
+        "ctc": 177000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 2,
+        "note": "Candidates who were a part of UberShe++ could sit for the interviews directly. Out of the 2 candidates selected, 1 was selected through OA and interview and other was a UberShe++ Candidate who was given the extended offer."
+      },
+      {
+        "companyName": "Winzo",
+        "jobDesignation": "SDE",
+        "jobDescription": null,
+        "location": ["Delhi"],
+        "duration": null,
+        "dateOfJoining": null,
+        "cgpaCriteria": 7.5,
+        "backlogsAllowed": 0,
+        "eligibleBranches": [
+          "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech",
+          "MAC-BTech", "IT-BTech", "ITNS-BTech"
+        ],
+        "stipend": 125000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 1,
+        "note": "On PPO conversion - 22 Lacs Fixed + 2 Lacs Variable + 3 Lacs Joining Bonus."
+      },
+      {
+        "companyName": "Salesforce",
+        "jobDesignation": null,
+        "jobDescription": null,
+        "location": ["Hyderabad", "Bangalore"],
+        "duration": null,
+        "dateOfJoining": null,
+        "cgpaCriteria": 7,
+        "backlogsAllowed": 20,
+        "eligibleBranches": {
+          "BTech": ["CSE", "CIVIL", "IT", "Specializations"],
+          "MTech": ["CSE", "AI", "IT", "EE", "Specializations"]
+        },
+        "stipend": 150000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 7,
+        "note": "CTC (If PPO is converted): Base Pay (fixed part) - 18 LPA."
+      },
+      {
+        "companyName": "D.E. Shaw & Co.",
+        "jobDesignation": "Technology Developer Intern",
+        "jobDescription": null,
+        "location": ["Hyderabad", "Gurugram", "Bengaluru"],
+        "duration": null,
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 7,
+        "backlogsAllowed": null,
+        "eligibleBranches": {
+          "BTech": ["CSE (All)", "IT (All)", "ECE (All)", "EE", "ICE"]
+        },
+        "stipend": 150000,
+        "category": "Tech",
+        "numberOfStudentsSelected": 1
+      },
+      {
+        "companyName": "Google",
+        "jobDesignation": "Software Engineer - Intern",
+        "jobDescription": null,
+        "location": ["Bangalore", "Hyderabad", "Pune"],
+        "duration": null,
+        "dateOfJoining": "May 2025",
+        "cgpaCriteria": 0,
+        "backlogsAllowed": null,
+        "eligibleBranches": {
+          "BTech": ["CSE (All)", "IT (All)", "ECE (All)", "EE"]
+        },
+        "stipend": 123333,
+        "subCategory": "Tech",
+        "numberOfStudentsSelected": 9
+      },
+      {
+        "companyName": "Adobe",
+        "note": "The organization has canceled their on-campus recruitment process for the batch of 2026"
+      },
+      {
+        "companyName": "Microsoft",
+        "jobDesignation": "Software Development Intern",
+        "jobDescription": "JD will be posted on careers.microsoft.com",
+        "location": ["Noida", "Bangalore", "Hyderabad"],
+        "duration": null,
+        "dateOfJoining": null,
+        "cgpaCriteria": 7,
+        "backlogsAllowed": 0,
+        "eligibleBranches": {
+          "BTech": [
+            "CSE-BTech", "CSAI-BTech", "CSDA-BTech", "CSDS-BTech", "CIOT-BTech",
+            "MAC-BTech", "ECE-BTech", "ECAM-BTech", "EE-BTech", "EIOT-BTech",
+            "ITNS-BTech", "IT-BTech", "ICE-BTech"
+          ]
+        },
+        "stipend": 125000,
+        "ctcAfterPPO": 5103200,
+        "category": "Tech",
+        "numberOfStudentsSelected": 18
+      },
+      {
+        "companyName": "SkillTank",
+        "jobDesignation": [
+          "Business Development Intern",
+          "Social Media Intern & Community Guy",
+          "Product Manager Intern",
+          "Digital Marketing Intern",
+          "Content Writer Intern",
+          "UI/UX Intern"
+        ],
+        "location": "Remote",
+        "dateOfJoining": "Immediate",
+        "cgpaCriteria": 5.0,
+        "branches": "Open for ALL",
+        "stipend": {
+          "Business Development Intern": {
+            "1st, 2nd, 3rd Year Students": "Certificate",
+            "4th Year Students/Final Year": "Up to ₹10,000 (₹3,000 Fixed + ₹7,000 Incentive) + Certificate"
+          },
+          "Social Media Intern & Community Guy": {
+            "1st, 2nd, 3rd Year Students": "Certificate",
+            "4th Year Students/Final Year": "Up to ₹5,000 + Certificate"
+          },
+          "Product Manager Intern": {
+            "1st, 2nd, 3rd Year Students": "Certificate",
+            "4th Year Students/Final Year": "Up to ₹5,000 + Certificate"
+          },
+          "Digital Marketing Intern": {
+            "1st, 2nd, 3rd Year Students": "Certificate",
+            "4th Year Students/Final Year": "Up to ₹5,000 + Certificate"
+          },
+          "Content Writer Intern": {
+            "1st, 2nd, 3rd Year Students": "Certificate",
+            "4th Year Students/Final Year": "Up to ₹3,000 + Certificate"
+          },
+          "UI/UX Intern": {
+            "1st, 2nd, 3rd Year Students": "Certificate",
+            "4th Year Students/Final Year": "Up to ₹3,000 + Certificate"
+          }
+        },
+        "duration": "3 months",
+        "capCriteria": "NA",
+        "category": ["Non Tech", "Tech"]
+      },
+      {
+        "companyName": "Design & Image Editing Research Internship",
+        "jobDesignation": "Design & Image Editing Research Intern",
+        "jobDescription": "You will be working with Dr. Ayush Bansal (www.aayushbansal.xyz), an alumnus of NSUT and PhD holder in Robotics from Carnegie Mellon University, focusing on unsupervised learning of the 4D audio-visual world from sparse real-world samples. Responsibilities include researching methods for image generation, designing diverse images, and exploring new techniques in image generation.",
+        "location": "Work from Home",
+        "dateOfJoining": "Immediately",
+        "cgpaCriteria": "NA",
+        "branches": ["BTech (2025, 2026 batch)", "MTech (2025, 2026 batch)", "BDesign (2024, 2025, 2026 batch)"],
+        "stipend": "₹10,000 (Negotiable Depending on Quality of Work)",
+        "category": "Design & Research",
+        "numberOfStudentsFinallySelected": 3
+      }
+]
